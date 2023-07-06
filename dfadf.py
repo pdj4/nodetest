@@ -1,0 +1,5 @@
+print("안녕")
+print("뭐요")
+print(342)
+print("{}살입니다.".format(4-2))
+print("지금까지테스트")
